@@ -8,7 +8,7 @@ We provided all pretained files of six class disease leaf including Healthy.
 📂 Pretrained Model Files
 Our pretrained model folder consists of:
 - encoder.pth  
-- decoder.pth  
+- decoder.pth
 - unet.pth
 - .ipynb (Training and generation code)
 
